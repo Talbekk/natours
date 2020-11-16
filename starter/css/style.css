@@ -171,6 +171,7 @@ body {
   display: inline-block;
   text-decoration: none;
   border-bottom: 1px solid #55c57a;
+  border-radius: 0;
   padding: 3px;
   transition-property: all .2s; }
 
